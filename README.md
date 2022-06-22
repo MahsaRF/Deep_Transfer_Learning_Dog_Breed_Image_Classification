@@ -7,4 +7,5 @@ In this project we utilized an Inception-Resnet based deep learning structure to
 For this project, I have chosen Stanford Dog Breed dataset which contains images of 120 breeds of dogs from around the world. The dataset contains 20,580 images in total.The dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. It was originally collected for fine-grain image categorization, a challenging problem as certain dog breeds have near identical features or differ in colour and age.
 
 https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
+
 This project was submitted as part of the graduate level Machine Learning course taught by Professor Ricardo Vilalta at the University of Houston Fall 2019
